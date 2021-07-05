@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
 
-#setup you details here
+#setup your details here
 CLIENT_ID=""
 USERNAME=""
 PASSWORD=""
